@@ -16,7 +16,7 @@ Biophysics Ph.D. and Data Scientist
 
 ## Current
 
-Biophysicist transitioning to data science role. Eager to apply computational, statistical, and communication skills to solve challenging problems in team-focused settings.
+Biophysicist turned data scientist. Part of the [Metis](http://www.thisismetis.com) Data Science Bootcamp Summer Cohort (June – September, 2016) in New York. Eager to apply my outstanding computational, statistical, and communication skills to solve challenging problems in team-focused settings.
 
 
 ## Experience
@@ -31,7 +31,7 @@ Demonstrated that conformational selection is critical in the highly concerted m
 Advisor: Professor Arthur G. Palmer, III
 
 `2007-2008`
-__University of Kandas, Department of Pharmaceutical Chemistry__, Postdoctoral Research Fellow  
+__University of Kansas, Department of Pharmaceutical Chemistry__, Postdoctoral Research Fellow  
 Examined the role of dynamics in IgG and vaccine stability  
 Advisor: Professor C. Russell Middaugh
 
@@ -45,7 +45,7 @@ Studied monovalent metal binding in nucleic acids using 205Thallium NMR
 Advisors: Professor J. Patrick Loria and Professor Scott A. Strobel
 
 `1997-2001`
-__University of Kandas, Department of Pharmaceutical Chemistry__ Undergraduate Research Fellow  
+__University of Kansas, Department of Pharmaceutical Chemistry__ Undergraduate Research Fellow  
 Characterization of cationic lipid-DNA complexes for non-viral gene therapy  
 Advisor: Professor C. Russell Middaugh
 
@@ -212,7 +212,7 @@ Kansas Board of Regents Full Tuition Scholarship
 
 ## Online Coursework
 
-Only machine learning and statistics courses are listed. A comprehensive list is also [available](http://link.mlgill.co/1pU0IQQ).  
+Only machine learning and statistics courses are listed. A comprehensive list is also [available](https://mlgill.github.io/coursework.html).  
 
 * [Machine Learning](http://link.mlgill.co/1QWaeg9)
 * [Mathematical Biostatistics Bootcamp I](http://link.mlgill.co/1QWaiMV)
