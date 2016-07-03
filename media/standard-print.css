@@ -69,6 +69,13 @@ p {
 	width: 70%;
 }
 
+hr {
+	margin-left: 25%;
+	margin-right: 8%;
+	margin-top: 2em;
+	margin-bottom: 2em;
+}
+
 code {
 	font: normal normal;
 	font-size: 70%;

@@ -3,15 +3,17 @@ layout: standard
 title: Coursera Coursework
 ---
 
-Coursera Coursework
-===================
+# Coursera Coursework
 
 
-Michelle Lynn Gill, Ph.D.  
-Updated 2016/04/17  
+
+Michelle Lynn Gill, Ph.D.    
 
 -------------------
+
 Links are provided to completion certificates.
+
+<!-- ## __Coursera__ -->
 
 **Machine Learning**  
 *Andrew Ng, Stanford University*  
@@ -53,3 +55,4 @@ This is a new machine learning specialization utilizing Python as the foundation
 <!-- * Clustering & Retrieval: *future* -->
 <!-- * Recommender Systems & Dimensionality Reduction: *future* -->
 <!-- * Capstone Project: *future* -->
+

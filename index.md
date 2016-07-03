@@ -247,6 +247,4 @@ Only machine learning and statistics courses are listed. A comprehensive list is
 
 Available on request.
 
-<!-- ### Footer
 
-Last updated: July 2016 -->
