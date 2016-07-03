@@ -16,12 +16,12 @@ Biophysicist and Data Scientist
 </div>
 
 
-## CURRENT
+## __Current__
 
 Biophysicist turned data scientist. Part of the Summer [Metis](http://www.thisismetis.com) Data Science Bootcamp Cohort (June – September, 2016) in New York. Eager to apply my superb computational, statistical, and communication skills to solve challenging problems in team-focused settings.
 
 
-## EXPERIENCE
+## __Experience__
 
 `2014-2016`
 __National Cancer Institute, National Institutes of Health__, Research Scientist  
@@ -52,7 +52,7 @@ Characterization of cationic lipid-DNA complexes for non-viral gene therapy
 Advisor: Professor C. Russell Middaugh
 
 
-## EDUCATION
+## __Education__
 
 `2003-2006`
 __Yale University__, New Haven, CT  
@@ -68,7 +68,7 @@ __University of Kansas__, Lawrence, KS
 B.S., Biochemistry, _Summa Cum Laude_
 
 
-## PROJECTS
+## __Projects__
 
 ### Blog
 
@@ -90,7 +90,7 @@ I built the [website](http://nestanmr.com) using Flask and created the [document
 [MFOutParser](http://github.com/mlgill/mfoutparser) is a Python library I developed during my postdoctoral research that parses a particularly challenging text format and performs preliminary analysis on the resulting data using Pandas.
 
 
-## TECHNICAL SKILLS
+## __Technical Skills__
 
 * Python
 * R
@@ -103,9 +103,9 @@ I built the [website](http://nestanmr.com) using Flask and created the [document
 * Statistics
 
 
-## PUBLICATIONS
+## __Publications__
 
-## Peer Reviewed
+### Peer Reviewed
 
 __Gill, M.L.__, Byrd, R.A., Palmer, A.G. "Detection of Chemical Exchange in Methyl Groups of Macromolecules", _in preparation_.
 
@@ -159,7 +159,7 @@ _* M.L. Gill is formerly M.L. Sippel_
 __Gill, M.L.__, Byrd, R.A. “Dynamic activation of apoptosis: conformational ensembles of cIAP1 are linked to a spring-loaded mechanism”, _Nat. Struct. Mol. Biol_ 2014, 21, 1022–1023. \[ [pdf](https://mlgill.github.io/publications/GillMichelle_NSMB_2014.pdf) \]
 
 
-## TEACHING
+## __Teaching__
 
 `2003`
 __Yale University__, Graduate Teaching Fellow  
@@ -172,7 +172,7 @@ Course: Biochemistry II
 Role: Led discussion sessions and reviews, designed quizzes and homework questions
 
 
-## SELECTED CONFERENCE PRESENTATIONS
+## __Selected Conference Presentations__
 
 `2015`
 Gill, M.L., Sun, S., Li, Y., Huang, M., Byrd, R.A. “NESTA-NMR: efficient and generalized processing of multidimensional NUS NMR data”, Poster, 56th Experimental Nuclear Magnetic Resonance Conference, 2015, Monterrey, CA.
@@ -190,7 +190,7 @@ Gill, M.L., and Palmer, A.G., “Gradient-selected zero-quantum experiments for 
 Gill, M.L., Strobel, S.A., and Loria, J.P., “Direct study of 205Tl binding to a G-quadruplex by detection of 1H–205Tl scalar couplings”, Selected Oral Presentation, 46th Experimental Nuclear Magnetic Resonance Conference, 2005, Providence, RI.
 
 
-## AWARDS
+## __Awards__
 
 `2009–2012`
 NIH Postdoctoral Research Fellowship (F32 GM089047)
@@ -214,9 +214,9 @@ Outstanding Undergraduate Honors Research Thesis
 Kansas Board of Regents Full Tuition Scholarship
 
 
-## COURSEWORK
+## __Continuing Education__
 
-### Bootcamp
+### In-Person
 
 `2016`
 Member of the Summer 2016 Metis Data Science Bootcamp Cohort
@@ -234,7 +234,7 @@ Only machine learning and statistics courses are listed. A comprehensive list is
 * [Regression](http://link.mlgill.co/1QWaGLv)
 
 
-## LINKS
+## __Links__
 
 * <i class="fa fa-envelope"></i> <a href="mailto:michelle@michellelynngill.com">michelle@michellelynngill.com</a><br />
 * <i class="fa fa-github"></i> <a href="http://github.com/mlgill">mlgill</a><br />
@@ -242,7 +242,7 @@ Only machine learning and statistics courses are listed. A comprehensive list is
 * <i class="fa fa-stack-overflow"></i> <a href="http://stackoverflow.com/users/943044/michelle-gill">michelle-gill</a>
 
 
-## REFERENCES
+## __References__
 
 Available on request.
 
