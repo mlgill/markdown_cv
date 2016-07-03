@@ -70,12 +70,12 @@ B.S, Biochemistry, _Summa Cum Laude_
 
 ### Blog
 
-My personal blog, [themodernscientist](http://themodernscientist.com), discusses data visualization, optimization, automation, and various other computationally-related interests. Frequent posts incorporate Jupyter notebooks and shell scrips. The blog itself is created using Pelican, a Python-based static blogging engine, and the website is hosted on [GitHub](http://github.com/modernscientist/modernscientist.github.com).
+My personal blog, [themodernscientist](http://themodernscientist.com), discusses data visualization, optimization, automation, and various other computationally-related interests. Frequent posts incorporate Jupyter notebooks and shell scrips. The blog itself is created using Pelican, a Python-based static blogging engine, and the website is hosted on [GitHub](https://github.com/modernscientist/modernscientist.github.com).
 
 
 ### Python Book
 
-I am co-author of an in progress, introductory book geared towards life scientists who want to learn Unix and Python. I wrote a [blog post](http://link.mlgill.co/1PkEnAe) announcing the project.
+I am co-author of an in progress, introductory book geared towards life scientists who want to learn Unix and Python. I wrote a [blog post](http://themodernscientist.com/posts/2015/2015-07-22-throwing_the_book_at_your_data/) announcing the project.
 
 ### NESTA-NMR
 
@@ -164,7 +164,7 @@ _* M.L. Gill is formerly M.L. Sippel_
 ## Other Publications
 
 `2014`
-__Gill, M.L.__, Byrd, R.A. “Dynamic activation of apoptosis: conformational ensembles of cIAP1 are linked to a spring-loaded mechanism”, _Nat. Struct. Mol. Biol_ 2014, 21, 1022–1023. \[ [doi]()|[pdf](share.michellelynngill.com/publications/GillMichelle_NSMB_2014.pdf) \]
+__Gill, M.L.__, Byrd, R.A. “Dynamic activation of apoptosis: conformational ensembles of cIAP1 are linked to a spring-loaded mechanism”, _Nat. Struct. Mol. Biol_ 2014, 21, 1022–1023. \[ [pdf](https://mlgill.github.io/publications/GillMichelle_NSMB_2014.pdf) \]
 
 
 ## Selected Conference Presentations
