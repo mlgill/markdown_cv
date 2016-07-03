@@ -31,9 +31,9 @@ footer, header, hgroup, menu, nav, section {
 body {
 	line-height: 1;
 }
-ol, ul {
+/*ol, ul {
 	list-style: none;
-}
+}*/
 blockquote, q {
 	quotes: none;
 }
@@ -54,26 +54,27 @@ table {
 
 body {
 	font: normal normal 400;
-	font-size: 9pt;
-	line-height: 1.35em;
+	font-size: 80%;
+	line-height: 1.5em;
+	/* font-family: Verdana, sans-serif; */
 	font-family: "Open sans", sans-serif;
-	/*margin-top: 1em;
-	margin-left: 1em;*/
+	margin-top: 1em;
+	margin-left: 1em;
 }
 
 p {
 	position: relative;
-	left: 28%;
-	/* margin-bottom: 0.2em; */
+	left: 25%;
+	margin-bottom: 0.7em;
 	margin-right: 0;
-	width: 70%;
+	width: 65%;
 }
 
 code {
 	font: normal normal;
-	font-size: 70%;
-	font-family: Menlo, monospace,s ans-serif;
-	color: #ddd;
+	font-size: 90%;
+	font-family: Menlo, monospace, sans-serif;
+	color: #aaa;
 }
 
 p code {
@@ -84,14 +85,15 @@ p code {
 
 ul {
 	position: relative;
-	left: 28%;
+	left: 30%;
 	width: 65%;
-	margin-bottom: 1em;
-	margin-top: 2em;
-	columns: 3;
-	-webkit-columns: 3;
-	-moz-columns: 3;
+	margin-bottom: 1.5em;
+	margin-top: 1em;
+/*  columns: 3;
+  -webkit-columns: 3;
+  -moz-columns: 3;*/
 }
+
 
 li {
 	/* empty */
@@ -100,7 +102,7 @@ li {
 li ul {
 	position: relative;
 	left: 0;
-	margin-top: 0.25em;
+/*	margin-top: 0.25em; */
 }
 
 h1,h2,h3,h4 {
@@ -110,51 +112,54 @@ h1,h2,h3,h4 {
 }
 
 h1 {
-	color: #222;
+	/*color: #fd9544;*/
+	color: #1D49A0;
 	text-align: left;
-	font-size: 2.2em;
+	font-size: 3em;
 	line-height: 1em;
 	position: relative;
-	left: 28%;
+	margin-top: 2em;
+	left: 25%;
+	/* padding: .1rem 1rem; */
+/*  text-shadow: 1px 1px #fff,
+      					1px 2px #ccc;*/
 }
 
 h1+p {
 	/*subtitle*/
+	color: #1D49A0;
 	font-style: italic;
 	font-size: 110%;
 	line-height: 2em;
-	margin-top: 0.1em;
+	margin-top: 0.5em;
 	margin-bottom: 0em !important;
 }
 
 h2 {
 	font-size: 1.1em;
-	color: #a00;
-	margin-top: 1em;
+	/* color: #a00; */
+	color: #1D49A0;
+	margin-top: 2em;
 	position: relative;
-	top: 1.5em;
+	top: 1.4em;
 	text-align: right;
-	width: 18%;
-}
-
-h2+p {
-	margin-top: 2.1em;
+	width: 15%;
 }
 
 h3 {
-	color: #F07415;
+	/*color: #F07415;*/
+	color: #1D49A0;
 	font-size: 1em;
 	line-height: 2em;
-	color: #ccc;
 	position: relative;
-	top: 1.6em;
+	top: 1.7em;
 	text-align: right;
-	width: 20%;
+	width: 15%;
 }
 
 a {
 	color: inherit;
-	text-decoration:none
+	/*text-decoration:none*/
 }
 
 a:hover {
@@ -162,10 +167,10 @@ a:hover {
 }
 
 #webaddress {
- 	margin-top: 0em;
+	margin-top: 0em;
 	position: relative;
-	left: 28%;
-	color: #ccc;
+  margin-left: 25%;
+	color: #aaa;
 	font-family: Menlo,monospace,sans-serif;
 	font-size: 80%;
 }
@@ -175,26 +180,16 @@ a:hover {
 }
 
 em {
-	font-style: normal;
-	color: #2d4e5e
+	/*font-weight: bold; */
+	font-style: italic;
 }
 
 strong {
 	font-weight: bold;
 }
 
-#ghbutton {
+#address {
 	display: none;
-	visibility: hidden;
-}
-
-
-#teaching {
-	 /*page-break-before: always;*/
-}
-
-#placements{
-      /* page-break-before: always; */
 }
 
 .footer {
@@ -202,9 +197,16 @@ strong {
     -moz-column-count: 3; /* Firefox */
     column-count: 3;
 		position: relative;
-		left: 33%;
+		left: 25%;
 		margin-top: 2em;
-		margin-bottom: 3em;
+		margin-bottom: 7em;
 		margin-right: 0;
 		width: 65%;
 }
+
+#technical
+
+/*
+@media only screen and (max-width: 480px) {
+	make one column somehow...
+}*/

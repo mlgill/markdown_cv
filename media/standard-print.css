@@ -31,9 +31,9 @@ footer, header, hgroup, menu, nav, section {
 body {
 	line-height: 1;
 }
-ol, ul {
+/*ol, ul {
 	list-style: none;
-}
+}*/
 blockquote, q {
 	quotes: none;
 }
@@ -88,9 +88,9 @@ ul {
 	width: 65%;
 	margin-bottom: 1em;
 	margin-top: 2em;
-	columns: 3;
+/*	columns: 3;
 	-webkit-columns: 3;
-	-moz-columns: 3;
+	-moz-columns: 3;*/
 }
 
 li {
@@ -189,8 +189,8 @@ strong {
 }
 
 
-#teaching {
-	 /*page-break-before: always;*/
+#projects {
+	 page-break-before: always;
 }
 
 #placements{

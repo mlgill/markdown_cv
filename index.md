@@ -100,18 +100,6 @@ I built the [website](http://nestanmr.com) using Flask and created the [document
 * LaTeX
 * Statistics
 
-## Teaching
-
-`2003`
-__Yale University__, Graduate Teaching Fellow  
-Course: Medical Impact of Basic Science  
-Role: Led discussion sessions where undergraduates discussed primary scientific literature, helped them develop and write research proposals based on topics covered 
-
-`2002-2003`
-__Yale University__, Graduate Teaching Fellow  
-Course: Biochemistry II  
-Role: Led discussion sessions and reviews, designed quizzes and homework questions
-
 
 ## Peer Reviewed Publications
 
@@ -165,6 +153,19 @@ _* M.L. Gill is formerly M.L. Sippel_
 
 `2014`
 __Gill, M.L.__, Byrd, R.A. “Dynamic activation of apoptosis: conformational ensembles of cIAP1 are linked to a spring-loaded mechanism”, _Nat. Struct. Mol. Biol_ 2014, 21, 1022–1023. \[ [pdf](https://mlgill.github.io/publications/GillMichelle_NSMB_2014.pdf) \]
+
+
+## Teaching
+
+`2003`
+__Yale University__, Graduate Teaching Fellow  
+Course: Medical Impact of Basic Science  
+Role: Led discussion sessions where undergraduates discussed primary scientific literature, helped them develop and write research proposals based on topics covered 
+
+`2002-2003`
+__Yale University__, Graduate Teaching Fellow  
+Course: Biochemistry II  
+Role: Led discussion sessions and reviews, designed quizzes and homework questions
 
 
 ## Selected Conference Presentations
