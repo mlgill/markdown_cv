@@ -19,7 +19,7 @@ time, mark, audio, video {
 	margin: 0;
 	padding: 0;
 	border: 0;
-	font-size: 100%;
+	font-size: 12pt!important;
 	font: inherit;
 	vertical-align: baseline;
 }
@@ -54,7 +54,7 @@ table {
 
 body {
 	font: normal normal 400;
-	font-size: 9pt;
+	font-size: 10pt;
 	line-height: 1.35em;
 	font-family: "Open sans", sans-serif;
 	/*margin-top: 1em;
@@ -78,7 +78,7 @@ code {
 
 p code {
 	position: absolute;
-	left: -10%;
+	left: -15%;
 }
 
 
@@ -112,7 +112,7 @@ h1,h2,h3,h4 {
 h1 {
 	color: #222;
 	text-align: left;
-	font-size: 2.2em;
+	font-size: 3em!important;
 	line-height: 1em;
 	position: relative;
 	left: 28%;
@@ -134,7 +134,7 @@ h2 {
 	position: relative;
 	top: 1.5em;
 	text-align: right;
-	width: 18%;
+	width: 12%;
 }
 
 h2+p {
@@ -149,7 +149,7 @@ h3 {
 	position: relative;
 	top: 1.6em;
 	text-align: right;
-	width: 20%;
+	width: 12%;
 }
 
 a {

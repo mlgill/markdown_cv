@@ -74,12 +74,12 @@ code {
 	font: normal normal;
 	font-size: 90%;
 	font-family: Menlo, monospace, sans-serif;
-	color: #aaa;
+	color: #6F7171;
 }
 
 p code {
 	position: absolute;
-	left: -10%;
+	left: -15%;
 }
 
 
@@ -115,7 +115,7 @@ h1 {
 	/*color: #fd9544;*/
 	color: #1D49A0;
 	text-align: left;
-	font-size: 3em;
+	font-size: 3em!important;
 	line-height: 1em;
 	position: relative;
 	margin-top: 2em;
@@ -143,7 +143,7 @@ h2 {
 	position: relative;
 	top: 1.4em;
 	text-align: right;
-	width: 15%;
+	width: 12%;
 }
 
 h3 {
@@ -154,7 +154,7 @@ h3 {
 	position: relative;
 	top: 1.7em;
 	text-align: right;
-	width: 15%;
+	width: 12%;
 }
 
 a {
@@ -170,7 +170,7 @@ a:hover {
 	margin-top: 0em;
 	position: relative;
   margin-left: 25%;
-	color: #aaa;
+	color: #6F7171;
 	font-family: Menlo,monospace,sans-serif;
 	font-size: 80%;
 }
@@ -197,11 +197,12 @@ strong {
     -moz-column-count: 3; /* Firefox */
     column-count: 3;
 		position: relative;
-		left: 25%;
-		margin-top: 2em;
-		margin-bottom: 7em;
+		left: 45%;
+		margin-top: 3em;
+		margin-bottom: 3em;
 		margin-right: 0;
 		width: 65%;
+		color: #6F7171;
 }
 
 #technical

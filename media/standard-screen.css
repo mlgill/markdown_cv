@@ -19,7 +19,7 @@ time, mark, audio, video {
 	margin: 0;
 	padding: 0;
 	border: 0;
-	font-size: 100%;
+	font-size: 12pt!important;
 	font: inherit;
 	vertical-align: baseline;
 }
@@ -86,13 +86,13 @@ code {
 
 p code {
 	position: absolute;
-	left: -10%;
+	left: -15%;
 }
 
 
 ul {
 	position: relative;
-	left: 30%;
+	left: 28%;
 	width: 65%;
 	margin-bottom: 1.5em;
 	margin-top: 1em;
@@ -122,7 +122,7 @@ h1 {
 	/*color: #fd9544;*/
 	color: #1D49A0;
 	text-align: left;
-	font-size: 3em;
+	font-size: 3em!important;
 	line-height: 1em;
 	position: relative;
 	margin-top: 2em;
@@ -150,7 +150,7 @@ h2 {
 	position: relative;
 	top: 1.4em;
 	text-align: right;
-	width: 15%;
+	width: 12%;
 }
 
 h3 {
@@ -161,7 +161,7 @@ h3 {
 	position: relative;
 	top: 1.7em;
 	text-align: right;
-	width: 15%;
+	width: 12%;
 }
 
 a {
@@ -204,11 +204,12 @@ strong {
     -moz-column-count: 3; /* Firefox */
     column-count: 3;
 		position: relative;
-		left: 25%;
-		margin-top: 2em;
-		margin-bottom: 7em;
+		left: 45%;
+		margin-top: 3em;
+		margin-bottom: 3em;
 		margin-right: 0;
 		width: 65%;
+		color: #6F7171;
 }
 
 #technical

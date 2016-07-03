@@ -2,7 +2,8 @@
 layout: cv
 title: Curriculum Vitae of Michelle Lynn Gill
 ---
-# Michelle Lynn Gill, Ph.D.
+# Michelle Lynn Gill, Ph.D.  
+
 Biophysicist and Data Scientist
 
 <div id="webaddress">
