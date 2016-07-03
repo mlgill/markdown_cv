@@ -240,6 +240,7 @@ Only machine learning and statistics courses are listed. A comprehensive list is
 * <i class="fa fa-github"></i> <a href="http://github.com/mlgill">mlgill</a><br />
 * <i class="fa fa-twitter"></i> <a href="http://twitter.com/modernscientist">modernscientist</a><br />
 * <i class="fa fa-stack-overflow"></i> <a href="http://stackoverflow.com/users/943044/michelle-gill">michelle-gill</a>
+* <i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/michellelynngill">linkedin</a>
 
 
 ## __References__
