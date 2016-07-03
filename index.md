@@ -11,6 +11,8 @@ Biophysicist and Data Scientist
 <i class="fa fa-github"></i> <a href="http://github.com/mlgill">mlgill</a>
 |
 <i class="fa fa-twitter"></i> <a href="http://twitter.com/modernscientist">modernscientist</a>
+|
+<i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/michellelynngill">linkedin</a>
 </div>
 
 
