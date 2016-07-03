@@ -42,7 +42,7 @@ __The Boston Consulting Group__, Consultant
 Worked with clients in the finance and pharmaceutical sectors to streamline organizational structure and identify novel investment opportunities. I was part of the case team that won the 2007 Global BCG Strategy Olympics for our work with a pharmaceutical client.
 
 `2001-2006`
-__Yale University, Department of Molecular Biophysics and Biochemistry__ Graduate Research Fellow
+__Yale University, Department of Molecular Biophysics and Biochemistry__ Graduate Research Fellow  
 Studied monovalent metal binding in nucleic acids using 205Thallium NMR  
 Advisors: Professor J. Patrick Loria and Professor Scott A. Strobel
 
