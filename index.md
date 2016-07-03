@@ -63,7 +63,7 @@ M.Phil., Molecular Biophysics & Biochemistry
 
 `1997-2001`
 __University of Kansas__, Lawrence, KS  
-B.S, Biochemistry, _Summa Cum Laude_
+B.S., Biochemistry, _Summa Cum Laude_
 
 
 ## Projects
