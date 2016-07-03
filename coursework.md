@@ -7,7 +7,7 @@ Coursera Coursework
 ===================
 
 
-Michelle Lynn Gill  
+Michelle Lynn Gill, Ph.D.  
 Updated 2016/04/17  
 
 -------------------

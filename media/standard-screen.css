@@ -70,6 +70,10 @@ p {
 	width: 65%;
 }
 
+hr {
+	left: 25%;
+}
+
 code {
 	font: normal normal;
 	font-size: 90%;
