@@ -48,7 +48,7 @@ __Metis__, Data Scientist
 Member of the Summer Cohort of the Data Science Bootcamp in New York.
 
 `2014-2016`
-__National Cancer Institute, National Institutes of Health__, Research Scientist  
+__National Cancer Institute, National Institutes of Health__, Scientist  
 <!-- ADD REFERENCE TO PROTEASOME WORK -->
 Developed robust and extremely fast methods for reconstruction of non-uniformly sampled NMR data.  
 
@@ -71,7 +71,7 @@ __Yale University, Department of Molecular Biophysics and Biochemistry__, Gradua
 Developed methods for the study of monovalent metal binding in nucleic acids using 205Thallium NMR.  
 Advisors: Professor J. Patrick Loria and Professor Scott A. Strobel
 
-`1997-2001`
+`1998-2001`
 __University of Kansas, Department of Pharmaceutical Chemistry__, Undergraduate Research Fellow  
 Characterized cationic lipid-DNA complexes for non-viral gene therapy.  
 Advisor: Professor C. Russell Middaugh
