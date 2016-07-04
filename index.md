@@ -22,7 +22,7 @@ Biophysicist and Data Scientist
 
 ## __Current__
 
-I am a biophysicist and data scientist. Currently honing my skills at Metis's Data Science Bootcamp (June – September, 2016) in New York. Eager to apply my superb computational, statistical, and communication skills to solve challenging problems in team-focused settings.
+Biophysicist and data scientist. Currently a data scientist at Metis. Eager to apply my superb computational, statistical, and communication skills to solve challenging problems in team-focused settings.
 
 
 ## __Education__
@@ -45,10 +45,11 @@ B.S., Biochemistry, _Summa Cum Laude_
 
 `2016`
 __Metis__, Data Scientist  
-Member of the Summer Cohort (June – September) of the Data Science Bootcamp in New York.
+Member of the Summer Cohort of the Data Science Bootcamp in New York.
 
 `2014-2016`
 __National Cancer Institute, National Institutes of Health__, Research Scientist  
+<!-- ADD REFERENCE TO PROTEASOME WORK -->
 Developed robust and extremely fast methods for reconstruction of non-uniformly sampled NMR data.  
 
 `2008-2014`
@@ -67,7 +68,7 @@ Worked with clients in the finance and pharmaceutical sectors to streamline orga
 
 `2001-2006`
 __Yale University, Department of Molecular Biophysics and Biochemistry__, Graduate Research Fellow  
-Developed methods for the study monovalent metal binding in nucleic acids using 205Thallium NMR.  
+Developed methods for the study of monovalent metal binding in nucleic acids using 205Thallium NMR.  
 Advisors: Professor J. Patrick Loria and Professor Scott A. Strobel
 
 `1997-2001`
@@ -80,24 +81,24 @@ Advisor: Professor C. Russell Middaugh
 
 ### Blog
 
-My personal blog, [themodernscientist](http://themodernscientist.com), discusses data visualization, optimization, automation, and various other computationally-related interests. Frequent posts incorporate Jupyter notebooks and shell scrips. The blog itself is created using Pelican, a Python-based static blogging engine, and the website is hosted on [GitHub](https://github.com/modernscientist/modernscientist.github.com).
+Personal blog, [themodernscientist](http://themodernscientist.com), discusses data visualization, optimization, automation, and various other computationally-related interests. Posts frequently incorporate Jupyter notebooks and shell scrips. The blog itself is created using Pelican, a Python-based static blogging engine, and the website is hosted on [GitHub](https://github.com/modernscientist/modernscientist.github.com).
 
 
 ### NESTA-NMR
 
-I developed and currently maintain a program, called [NESTA-NMR](http://nestanmr.com), that enables the acquisition of experimental data to be completed up to 100X faster. This project uses a compressed sensing algorithm, called NESTA. The program is written in C, highly parallelized, and best-in-class for speed and optimization accuracy. Associated scientific (GSL and FFTW) and parallelization (pthreads) libraries were also used.
+Developed and currently maintain a program, called [NESTA-NMR](http://nestanmr.com), that enables the acquisition of experimental data to be completed up to 100X faster. This project uses a compressed sensing algorithm, called NESTA. The program is written in C, highly parallelized, and best-in-class for speed and optimization accuracy. Associated scientific (GSL and FFTW) and parallelization (pthreads) libraries were also used.
 
 I built the [website](http://nestanmr.com) using Flask and created the [documentation](http://docs.nestanmr.com) using Sphinx.
 
 
 ### MFOutParser
 
-[MFOutParser](http://github.com/mlgill/mfoutparser) is a Python library I developed during my postdoctoral research that parses a particularly challenging text format and performs preliminary analysis on the resulting data using Pandas.
+[MFOutParser](http://github.com/mlgill/mfoutparser) is a Python library developed during my postdoctoral research that parses a particularly challenging text format and performs preliminary analysis on the resulting data using Pandas.
 
 
 ### Python Book
 
-I am co-author of an in-progress, introductory Python book, called ["Unix and Python to the Rescue!"](http://rescuedbycode.com), geared towards life scientists who want to learn Unix and Python. I wrote a [blog post](http://themodernscientist.com/posts/2015/2015-07-22-throwing_the_book_at_your_data/) announcing the project and have also written posts on the book's website.
+Co-author of an in-progress, introductory Python book, called ["Unix and Python to the Rescue!"](http://rescuedbycode.com), geared towards life scientists who want to learn Unix and Python. I wrote a [blog post](http://themodernscientist.com/posts/2015/2015-07-22-throwing_the_book_at_your_data/) announcing the project and have also written posts on the book's website.
 
 
 ## __Technical Skills__
