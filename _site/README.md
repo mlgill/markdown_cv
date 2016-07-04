@@ -1,15 +1,15 @@
 # md-cv
 
-My curriculum vitae, which can be found [here](http://michellelynngill.com).
+My curriculum vitae, which can be found [here](http://cv.michellelynngill.com).
 
 ### How to run 
 
-A (jekyll-based) markdown CV tweaked slightly from the great design by [elipapa](https://github.com/elipapa/markdown-cv) (see their [blog post](http://www.eliseopapa.org/workflow/2012/09/20/why-i-switched-to-markdown-for-my-cv/)).
+A (jekyll-based) markdown CV tweaked slightly from the great design by [elipapa](https://github.com/elipapa/markdown-cv).
 
 To build, clone the repo and run jekyll:
 
 ```bash
-git clone git://github.com/blmoore/md-cv
+git clone git://github.com/mlgill/md-cv
 cd md-cv/
 jekyll serve
 ```
