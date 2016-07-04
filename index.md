@@ -91,9 +91,9 @@ I built the [website](http://nestanmr.com) using Flask and created the [document
 [MFOutParser](http://github.com/mlgill/mfoutparser) is a Python library I developed during my postdoctoral research that parses a particularly challenging text format and performs preliminary analysis on the resulting data using Pandas.
 
 
-### Python Book: "Unix and Python to the Rescue!"
+### Python Book
 
-I am co-author of an in progress, introductory book geared towards life scientists who want to learn Unix and Python. I wrote a [blog post](http://themodernscientist.com/posts/2015/2015-07-22-throwing_the_book_at_your_data/) announcing the project.
+I am co-author of an in progress, introductory book, called "Unix and Python to the Rescue!", geared towards life scientists who want to learn Unix and Python. I wrote a [blog post](http://themodernscientist.com/posts/2015/2015-07-22-throwing_the_book_at_your_data/) announcing the project.
 
 
 ## __Technical Skills__
