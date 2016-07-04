@@ -25,6 +25,22 @@ Biophysicist and Data Scientist
 I am a biophysicist and data scientist. Currently honing my skills at Metis's Data Science Bootcamp (June – September, 2016) in New York. Eager to apply my superb computational, statistical, and communication skills to solve challenging problems in team-focused settings.
 
 
+## __Education__
+
+`2003-2006`
+__Yale University__, New Haven, CT  
+Ph.D., Molecular Biophysics & Biochemistry  
+Advisors: J. Patrick Loria and Scott Strobel
+
+`2001-2003`
+__Yale University__, New Haven, CT  
+M.Phil., Molecular Biophysics & Biochemistry
+
+`1997-2001`
+__University of Kansas__, Lawrence, KS  
+B.S., Biochemistry, _Summa Cum Laude_
+
+
 ## __Experience__
 
 `2016`
@@ -58,22 +74,6 @@ Advisors: Professor J. Patrick Loria and Professor Scott A. Strobel
 __University of Kansas, Department of Pharmaceutical Chemistry__, Undergraduate Research Fellow  
 Characterized cationic lipid-DNA complexes for non-viral gene therapy.  
 Advisor: Professor C. Russell Middaugh
-
-
-## __Education__
-
-`2003-2006`
-__Yale University__, New Haven, CT  
-Ph.D., Molecular Biophysics & Biochemistry  
-Advisors: J. Patrick Loria and Scott Strobel
-
-`2001-2003`
-__Yale University__, New Haven, CT  
-M.Phil., Molecular Biophysics & Biochemistry
-
-`1997-2001`
-__University of Kansas__, Lawrence, KS  
-B.S., Biochemistry, _Summa Cum Laude_
 
 
 ## __Projects__
