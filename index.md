@@ -11,8 +11,7 @@ Biophysicist and Data Scientist
 <a href="mailto:michelle@michellelynngill.com">michelle@michellelynngill.com</a>
 |
 <i class="fa fa-globe"></i> <a href="http://themodernscientist.com">themodernscientist</a>
-</div>
-<div id="webaddress">
+|
 <i class="fa fa-github"></i> <a href="http://github.com/mlgill">mlgill</a>
 |
 <i class="fa fa-twitter"></i> <a href="http://twitter.com/modernscientist">modernscientist</a>
@@ -239,6 +238,7 @@ Only machine learning and statistics courses are listed. Links are to completion
 ## __Links__
 
 * <i class="fa fa-envelope"></i> <a href="mailto:michelle@michellelynngill.com">michelle@michellelynngill.com</a><br />
+* <i class="fa fa-globe"></i> <a href="http://themodernscientist.com">themodernscientist</a><br />
 * <i class="fa fa-github"></i> <a href="http://github.com/mlgill">mlgill</a><br />
 * <i class="fa fa-twitter"></i> <a href="http://twitter.com/modernscientist">modernscientist</a><br />
 * <i class="fa fa-stack-overflow"></i> <a href="http://stackoverflow.com/users/943044/michelle-gill">michelle-gill</a>
