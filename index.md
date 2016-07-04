@@ -25,20 +25,20 @@ I am a biophysicist and data scientist. Currently honing my skills at Metis's Da
 
 `2016`
 __Metis__, Data Scientist  
-Member of the Summer Cohort (June – September) of the Data Science Bootcamp
+Member of the Summer Cohort (June – September) of the Data Science Bootcamp in New York.
 
 `2014-2016`
 __National Cancer Institute, National Institutes of Health__, Research Scientist  
-Developed robust and extremely fast methods for reconstruction of non-uniformly sampled NMR data  
+Developed robust and extremely fast methods for reconstruction of non-uniformly sampled NMR data.  
 
 `2008-2014`
 __Columbia University, Department of Biochemistry and Molecular Biophysics__, Postdoctoral Research Fellow  
-Demonstrated that conformational selection is critical in the highly concerted mechanism of AlkB  
+Part of a collaboration that demonstrated conformational selection is critical in the highly concerted mechanism of the DNA methyltransferase, AlkB. Developed multiple quantum NMR spin relaxation experiments for quantifying the slow timescale (microsecond – millisecond) motions of methyl sidechains.  
 Advisor: Professor Arthur G. Palmer, III
 
 `2007-2008`
 __University of Kansas, Department of Pharmaceutical Chemistry__, Postdoctoral Research Fellow  
-Examined the role of dynamics in IgG and vaccine stability  
+Examined the role of dynamics in IgG and vaccine stability.  
 Advisor: Professor C. Russell Middaugh
 
 `2006-2007`
@@ -47,12 +47,12 @@ Worked with clients in the finance and pharmaceutical sectors to streamline orga
 
 `2001-2006`
 __Yale University, Department of Molecular Biophysics and Biochemistry__, Graduate Research Fellow  
-Studied monovalent metal binding in nucleic acids using 205Thallium NMR  
+Developed methods for the study monovalent metal binding in nucleic acids using 205Thallium NMR.  
 Advisors: Professor J. Patrick Loria and Professor Scott A. Strobel
 
 `1997-2001`
 __University of Kansas, Department of Pharmaceutical Chemistry__, Undergraduate Research Fellow  
-Characterization of cationic lipid-DNA complexes for non-viral gene therapy  
+Characterized cationic lipid-DNA complexes for non-viral gene therapy.  
 Advisor: Professor C. Russell Middaugh
 
 
@@ -91,7 +91,7 @@ I built the [website](http://nestanmr.com) using Flask and created the [document
 [MFOutParser](http://github.com/mlgill/mfoutparser) is a Python library I developed during my postdoctoral research that parses a particularly challenging text format and performs preliminary analysis on the resulting data using Pandas.
 
 
-### Python Book
+### Python Book: "Unix and Python to the Rescue!"
 
 I am co-author of an in progress, introductory book geared towards life scientists who want to learn Unix and Python. I wrote a [blog post](http://themodernscientist.com/posts/2015/2015-07-22-throwing_the_book_at_your_data/) announcing the project.
 
@@ -168,7 +168,7 @@ Wiethoff, C.M., __Gill, M.L.__, Koe, G.S., Koe, J.G., and Middaugh, C.R. “A fl
 Wiethoff, C.M., __Gill, M.L.__, Koe, G.S., Koe, J.G., and Middaugh, C.R. “The structural organization of cationic lipid-DNA complexes”, _J. Biol. Chem._ 2002, 277, 44980–44987. \[[pdf](http://michellelynngill.com/publications/GillMichelle_JBC_2002.pdf)\]
 
 `2000`
-Silchenko, S., __Sippel, M.L.__, Kuchment, O., Benson, D.R., Mauk, A.G., Altuve, A., and Rivera, M. “Hemin is kinetically trapped in cytochrome b5 from rat outer mitochondrial membrane”, _Biochem. Biophys. Res. Commun._ 2000, 273, 467–472. \[[pdf](http://michellelynngill.com/publications/GillMichelle_BBRC_2000.pdf)\]  
+Silchenko, S., __*Sippel, M.L.__, Kuchment, O., Benson, D.R., Mauk, A.G., Altuve, A., and Rivera, M. “Hemin is kinetically trapped in cytochrome b5 from rat outer mitochondrial membrane”, _Biochem. Biophys. Res. Commun._ 2000, 273, 467–472. \[[pdf](http://michellelynngill.com/publications/GillMichelle_BBRC_2000.pdf)\]  
 _* M.L. Gill is formerly M.L. Sippel_
 
 
