@@ -168,7 +168,7 @@ Wiethoff, C.M., __Gill, M.L.__, Koe, G.S., Koe, J.G., and Middaugh, C.R. “A fl
 Wiethoff, C.M., __Gill, M.L.__, Koe, G.S., Koe, J.G., and Middaugh, C.R. “The structural organization of cationic lipid-DNA complexes”, _J. Biol. Chem._ 2002, 277, 44980–44987. \[[pdf](http://michellelynngill.com/publications/GillMichelle_JBC_2002.pdf)\]
 
 `2000`
-Silchenko, S., __Sippel, M.L.__, Kuchment, O., Benson, D.R., Mauk, A.G., Altuve, A., and Rivera, M. “Hemin is kinetically trapped in cytochrome b5 from rat outer mitochondrial membrane”, _Biochem. Biophys. Res. Commun._ 2000, 273, 467–472. \[[pdf](http://michellelynngill.com/publications/GillMichelle_BBRC_2000.pdf)\]  
+Silchenko, S., __*Sippel, M.L.__, Kuchment, O., Benson, D.R., Mauk, A.G., Altuve, A., and Rivera, M. “Hemin is kinetically trapped in cytochrome b5 from rat outer mitochondrial membrane”, _Biochem. Biophys. Res. Commun._ 2000, 273, 467–472. \[[pdf](http://michellelynngill.com/publications/GillMichelle_BBRC_2000.pdf)\]  
 _* M.L. Gill is formerly M.L. Sippel_
 
 
