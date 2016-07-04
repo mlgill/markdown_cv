@@ -2,6 +2,7 @@
 layout: cv
 title: Curriculum Vitae of Michelle Lynn Gill
 ---
+
 # Michelle Lynn Gill, Ph.D.  
 
 Biophysicist and Data Scientist
@@ -21,6 +22,10 @@ I am a biophysicist and data scientist. Currently honing my skills at Metis's Da
 
 
 ## __Experience__
+
+`2016-Present`
+__Metis__, Data Scientist  
+Member of the Summer Cohort of the Data Science Bootcamp
 
 `2014-2016`
 __National Cancer Institute, National Institutes of Health__, Research Scientist  
@@ -74,19 +79,21 @@ B.S., Biochemistry, _Summa Cum Laude_
 My personal blog, [themodernscientist](http://themodernscientist.com), discusses data visualization, optimization, automation, and various other computationally-related interests. Frequent posts incorporate Jupyter notebooks and shell scrips. The blog itself is created using Pelican, a Python-based static blogging engine, and the website is hosted on [GitHub](https://github.com/modernscientist/modernscientist.github.com).
 
 
-### Python Book
-
-I am co-author of an in progress, introductory book geared towards life scientists who want to learn Unix and Python. I wrote a [blog post](http://themodernscientist.com/posts/2015/2015-07-22-throwing_the_book_at_your_data/) announcing the project.
-
 ### NESTA-NMR
 
 I developed and currently maintain a program, called [NESTA-NMR](http://nestanmr.com), that enables the acquisition of experimental data to be completed up to 100X faster. This project uses a compressed sensing algorithm, called NESTA. The program is written in C, highly parallelized, and best-in-class for speed and optimization accuracy. Associated scientific (GSL and FFTW) and parallelization (pthreads) libraries were also used.
 
 I built the [website](http://nestanmr.com) using Flask and created the [documentation](http://docs.nestanmr.com) using Sphinx.
 
+
 ### MFOutParser
 
 [MFOutParser](http://github.com/mlgill/mfoutparser) is a Python library I developed during my postdoctoral research that parses a particularly challenging text format and performs preliminary analysis on the resulting data using Pandas.
+
+
+### Python Book
+
+I am co-author of an in progress, introductory book geared towards life scientists who want to learn Unix and Python. I wrote a [blog post](http://themodernscientist.com/posts/2015/2015-07-22-throwing_the_book_at_your_data/) announcing the project.
 
 
 ## __Technical Skills__
@@ -100,6 +107,19 @@ I built the [website](http://nestanmr.com) using Flask and created the [document
 * Git
 * LaTeX
 * Statistics
+
+
+## __Teaching__
+
+`2003`
+__Yale University__, Graduate Teaching Fellow  
+Course: Medical Impact of Basic Science  
+Role: Led discussion sessions where undergraduates discussed primary scientific literature, helped them develop and write research proposals based on topics covered 
+
+`2002-2003`
+__Yale University__, Graduate Teaching Fellow  
+Course: Biochemistry II  
+Role: Led discussion sessions and reviews, designed quizzes and homework questions
 
 
 ## __Publications__
@@ -158,19 +178,6 @@ _* M.L. Gill is formerly M.L. Sippel_
 __Gill, M.L.__, Byrd, R.A. “Dynamic activation of apoptosis: conformational ensembles of cIAP1 are linked to a spring-loaded mechanism”, _Nat. Struct. Mol. Biol_ 2014, 21, 1022–1023. \[ [pdf](http://michellelynngill.com/publications/GillMichelle_NSMB_2014.pdf) \]
 
 
-## __Teaching__
-
-`2003`
-__Yale University__, Graduate Teaching Fellow  
-Course: Medical Impact of Basic Science  
-Role: Led discussion sessions where undergraduates discussed primary scientific literature, helped them develop and write research proposals based on topics covered 
-
-`2002-2003`
-__Yale University__, Graduate Teaching Fellow  
-Course: Biochemistry II  
-Role: Led discussion sessions and reviews, designed quizzes and homework questions
-
-
 ## __Selected Conference Presentations__
 
 `2015`
@@ -213,16 +220,9 @@ Outstanding Undergraduate Honors Research Thesis
 Kansas Board of Regents Full Tuition Scholarship
 
 
-## __Continuing Education__
+## __Online Education__
 
-### In-Person
-
-`2016`
-Member of the Summer 2016 Metis Data Science Bootcamp Cohort
-
-### Online
-
-Only machine learning and statistics courses are listed. A comprehensive list is also [available](http://michellelynngill.com/coursework.html).  
+Only machine learning and statistics courses are listed. Links are to completion certificates. A comprehensive list is also [available](http://michellelynngill.com/coursework.html).  
 
 * [Machine Learning](http://link.mlgill.co/1QWaeg9)
 * [Mathematical Biostatistics Bootcamp I](http://link.mlgill.co/1QWaiMV)
