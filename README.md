@@ -1,6 +1,6 @@
 # md-cv
 
-My markdown CV, which can be found [here](http://michellelynngill.com).
+My curriculum vitae, which can be found [here](http://michellelynngill.com).
 
 ### How to run 
 
