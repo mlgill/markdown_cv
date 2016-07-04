@@ -1,6 +1,6 @@
 # md-cv
 
-My markdown CV, which currently looks something like [this](http://blm.io/cv/), see this [blog post](http://blm.io/blog/markdown-academic-cv/) for details.
+My markdown CV, which can be found [here](http://michellelynngill.com).
 
 ### How to run 
 
