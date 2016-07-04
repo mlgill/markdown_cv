@@ -93,7 +93,7 @@ I built the [website](http://nestanmr.com) using Flask and created the [document
 
 ### Python Book
 
-I am co-author of an in progress, introductory book, called "Unix and Python to the Rescue!", geared towards life scientists who want to learn Unix and Python. I wrote a [blog post](http://themodernscientist.com/posts/2015/2015-07-22-throwing_the_book_at_your_data/) announcing the project.
+I am co-author of an in progress, introductory book, called ["Unix and Python to the Rescue!"](http://rescuedbycode.com), geared towards life scientists who want to learn Unix and Python. I wrote a [blog post](http://themodernscientist.com/posts/2015/2015-07-22-throwing_the_book_at_your_data/) announcing the project and have also written posts on the book's website.
 
 
 ## __Technical Skills__
