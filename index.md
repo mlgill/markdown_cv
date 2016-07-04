@@ -178,7 +178,7 @@ _* M.L. Gill is formerly M.L. Sippel_
 __Gill, M.L.__, Byrd, R.A. “Dynamic activation of apoptosis: conformational ensembles of cIAP1 are linked to a spring-loaded mechanism”, _Nat. Struct. Mol. Biol_ 2014, 21, 1022–1023. \[ [pdf](http://michellelynngill.com/publications/GillMichelle_NSMB_2014.pdf) \]
 
 
-## __Selected Conference Presentations__
+## __Selected Presentations__
 
 `2015`
 Gill, M.L., Sun, S., Li, Y., Huang, M., Byrd, R.A. “NESTA-NMR: efficient and generalized processing of multidimensional NUS NMR data”, Poster, 56th Experimental Nuclear Magnetic Resonance Conference, 2015, Monterrey, CA.
