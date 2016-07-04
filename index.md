@@ -226,7 +226,7 @@ Kansas Board of Regents Full Tuition Scholarship
 
 ## __Online Education__
 
-Only machine learning and statistics courses are listed. Links are to completion certificates. A comprehensive list is also [available](http://cv.michellelynngill.com/coursework.html).  
+Links are to completion certificates. Only machine learning and statistics courses are listed. A comprehensive list is also [available](http://cv.michellelynngill.com/coursework.html).  
 
 * [Machine Learning](http://link.mlgill.co/1QWaeg9)
 * [Mathematical Biostatistics Bootcamp I](http://link.mlgill.co/1QWaiMV)
