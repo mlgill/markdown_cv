@@ -9,12 +9,12 @@ Biophysicist and Data Scientist
 
 <div id="webaddress">
 <a href="mailto:michelle@michellelynngill.com">michelle@michellelynngill.com</a>
-|
-<i class="fa fa-github"></i> <a href="http://github.com/mlgill">mlgill</a>
 </div>
 
 <div id="webaddress">
 <i class="fa fa-globe"></i> <a href="http://themodernscientist.com">themodernscientist</a>
+|
+<i class="fa fa-github"></i> <a href="http://github.com/mlgill">mlgill</a>
 |
 <i class="fa fa-twitter"></i> <a href="http://twitter.com/modernscientist">modernscientist</a>
 </div>
