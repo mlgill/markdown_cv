@@ -17,7 +17,7 @@ Biophysicist and Data Scientist
 
 ## __Current__
 
-Biophysicist and data scientist. Part of the Summer Metis Data Science Bootcamp Cohort (June – September, 2016) in New York. Eager to apply my superb computational, statistical, and communication skills to solve challenging problems in team-focused settings.
+I am a biophysicist and data scientist. Currently honing my skills at Metis's Data Science Bootcamp (June – September, 2016) in New York. Eager to apply my superb computational, statistical, and communication skills to solve challenging problems in team-focused settings.
 
 
 ## __Experience__
