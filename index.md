@@ -134,7 +134,7 @@ __Gill, M.L.__, Sun, S., Byrd, R.A., "Highly Quantitative Reconstruction of Spar
 __Gill, M.L.__, Byrd, R.A., Palmer, A.G. “Dynamics of GCN4 Facilitate DNA Interaction: A Model-Free Analysis of an Intrinsically Disordered Region”, _Phys. Chem. Chem. Phys._ 2016, 18, 5839–5849. \[[pdf](http://michellelynngill.com/publications/GillMichelle_PCCP_2015.pdf)\]
 
 `2015`
-*Sun, S., __*Gill, M.L.__, Li, Y., Huang, M., Byrd, R.A. “Efficient and generalized processing of multidimensional NUS NMR Data: the NESTA algorithm and comparison of regularization terms”, _J. Biomol. NMR_ 2015, 62, 105–117. \[[pdf](http://michellelynngill.com/publications/GillMichelle_JBNMR_2015.pdf)\]  
+*Sun, S., __\*Gill, M.L.__, Li, Y., Huang, M., Byrd, R.A. “Efficient and generalized processing of multidimensional NUS NMR Data: the NESTA algorithm and comparison of regularization terms”, _J. Biomol. NMR_ 2015, 62, 105–117. \[[pdf](http://michellelynngill.com/publications/GillMichelle_JBNMR_2015.pdf)\]  
 _\* Authors contributed equally_
 
 `2014`
@@ -168,7 +168,7 @@ Wiethoff, C.M., __Gill, M.L.__, Koe, G.S., Koe, J.G., and Middaugh, C.R. “A fl
 Wiethoff, C.M., __Gill, M.L.__, Koe, G.S., Koe, J.G., and Middaugh, C.R. “The structural organization of cationic lipid-DNA complexes”, _J. Biol. Chem._ 2002, 277, 44980–44987. \[[pdf](http://michellelynngill.com/publications/GillMichelle_JBC_2002.pdf)\]
 
 `2000`
-Silchenko, S., __*Sippel, M.L.__, Kuchment, O., Benson, D.R., Mauk, A.G., Altuve, A., and Rivera, M. “Hemin is kinetically trapped in cytochrome b5 from rat outer mitochondrial membrane”, _Biochem. Biophys. Res. Commun._ 2000, 273, 467–472. \[[pdf](http://michellelynngill.com/publications/GillMichelle_BBRC_2000.pdf)\]  
+Silchenko, S., __\*Sippel, M.L.__, Kuchment, O., Benson, D.R., Mauk, A.G., Altuve, A., and Rivera, M. “Hemin is kinetically trapped in cytochrome b5 from rat outer mitochondrial membrane”, _Biochem. Biophys. Res. Commun._ 2000, 273, 467–472. \[[pdf](http://michellelynngill.com/publications/GillMichelle_BBRC_2000.pdf)\]  
 _* M.L. Gill is formerly M.L. Sippel_
 
 
