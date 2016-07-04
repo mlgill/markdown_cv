@@ -23,9 +23,9 @@ I am a biophysicist and data scientist. Currently honing my skills at Metis's Da
 
 ## __Experience__
 
-`2016-Present`
+`2016`
 __Metis__, Data Scientist  
-Member of the Summer Cohort of the Data Science Bootcamp
+Member of the Summer Cohort (June – September) of the Data Science Bootcamp
 
 `2014-2016`
 __National Cancer Institute, National Institutes of Health__, Research Scientist  
