@@ -22,7 +22,7 @@ Biophysicist and Data Scientist
 
 ## __Current__
 
-Biophysicist and data scientist. Currently a data scientist at Metis. Eager to apply my superb computational, statistical, and communication skills to solve challenging problems in team-focused settings.
+Biophysicist and data scientist. Currently a data science fellow at Metis. Eager to apply my superb computational, statistical, and communication skills to solve challenging problems in team-focused settings.
 
 
 ## __Education__
@@ -44,8 +44,8 @@ B.S., Biochemistry, _Summa Cum Laude_
 ## __Experience__
 
 `2016`
-__Metis__, Data Scientist  
-Member of the Summer Cohort of the Data Science Bootcamp in New York.
+__Metis__, Data Science Fellow  
+Member of the Summer Cohort of the Data Science Bootcamp in New York. I am concurrently serving as a teaching assistant while taking the bootcamp.
 
 `2014-2016`
 __National Cancer Institute, National Institutes of Health__, Scientist  
@@ -89,6 +89,11 @@ Personal blog, [themodernscientist](http://themodernscientist.com), discusses da
 Developed and currently maintain a program, called [NESTA-NMR](http://nestanmr.com), that enables the acquisition of experimental data to be completed up to 100X faster. This project uses a compressed sensing algorithm, called NESTA. The program is written in C, highly parallelized, and best-in-class for speed and optimization accuracy. Associated scientific (GSL and FFTW) and parallelization (pthreads) libraries were also used.
 
 I built the [website](http://nestanmr.com) using Flask and created the [documentation](http://docs.nestanmr.com) using Sphinx.
+
+
+### pdLSR
+
+[pdLSR](https://github.com/mlgill/pdLSR) is a library for performing least squares regression. It attempts to seamlessly incorporate this task in a Pandas-focused workflow. Input data are expected in dataframes, and multiple regressions can be performed using functionality similar to Pandas groupby.
 
 
 ### MFOutParser
