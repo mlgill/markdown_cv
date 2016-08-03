@@ -45,7 +45,7 @@ B.S., Biochemistry, _Summa Cum Laude_
 
 `2016`
 __Metis__, Data Science Fellow  
-Member of the Summer Cohort of the Data Science Bootcamp in New York. I am concurrently serving as a teaching assistant while taking the bootcamp.
+Member of the Summer Cohort of the Data Science Bootcamp in New York. I am concurrently serving as a teaching assistant while attending the bootcamp.
 
 `2014-2016`
 __National Cancer Institute, National Institutes of Health__, Scientist  
@@ -252,9 +252,5 @@ Links are to completion certificates. Only machine learning and statistics cours
 * <i class="fa fa-stack-overflow"></i> <a href="http://stackoverflow.com/users/943044/michelle-gill">michelle-gill</a>
 * <i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/michellelynngill">linkedin</a>
 
-
-## __References__
-
-Available on request.
 
 
