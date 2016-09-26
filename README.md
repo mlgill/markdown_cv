@@ -1,6 +1,8 @@
-# md-cv
+# Markdown Curriculum Vitae
 
-My curriculum vitae, which can be found [here](http://cv.michellelynngill.com).
+My curriculum vitae, which can be found at [http://cv.michellelynngill.com](http://cv.michellelynngill.com).
+
+===========================================================================================================
 
 ### How to run 
 
