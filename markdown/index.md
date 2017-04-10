@@ -22,7 +22,7 @@ Biophysicist and Data Scientist
 
 ## __Current__
 
-Biophysicist and data scientist. Currently a data science fellow at Metis. Eager to apply my superb computational, statistical, and communication skills to solve challenging problems in team-focused settings.
+Biophysicist and data scientist. Currently a senior data scientist at Metis. Always eager to apply my superb computational, statistical, and communication skills to solve challenging problems in team-focused settings.
 
 
 ## __Education__
@@ -43,9 +43,9 @@ B.S., Biochemistry, _Summa Cum Laude_
 
 ## __Experience__
 
-`2016`
-__Metis__, Data Science Fellow  
-Member of the Summer Cohort of the Data Science Bootcamp in New York. I am concurrently serving as a teaching assistant while attending the bootcamp.
+`2016-Present`
+__Metis__, Senior Data Scientist  
+Designed and created Hadoop and Spark machine learning and NLP curriculum using self-made Docker containers. Conducted corporate trainings focused on Python, Spark, Hadoop, and Hive. Developed 12-week machine learning course for F100 company. Co-instructed 12-week data science bootcamps. Developed and conducted take home coding exercise to assist with interview preparation.
 
 `2014-2016`
 __National Cancer Institute, National Institutes of Health__, Scientist  
@@ -109,14 +109,19 @@ Co-author of an in-progress, introductory Python book, called ["Unix and Python 
 ## __Technical Skills__
 
 * Python
+* Scala
 * R
 * C
 * MATLAB
+* Spark
+* Hadoop
+* Hive
+* Statistics
 * Machine learning
 * UNIX
 * Git
+* Docker
 * LaTeX
-* Statistics
 
 
 ## __Teaching__
