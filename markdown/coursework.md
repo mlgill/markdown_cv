@@ -1,11 +1,9 @@
 ---
-layout: standard
+layout: coursework
 title: Online Coursework
 ---
 
 # Online Coursework
-
-
 
 Michelle Lynn Gill, Ph.D.    
 
