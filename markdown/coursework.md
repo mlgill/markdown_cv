@@ -1,9 +1,9 @@
 ---
 layout: standard
-title: Coursera Coursework
+title: Online Coursework
 ---
 
-# Coursera Coursework
+# Online Coursework
 
 
 
@@ -13,7 +13,7 @@ Michelle Lynn Gill, Ph.D.
 
 Links are provided to completion certificates.
 
-<!-- ## __Coursera__ -->
+## __Coursera__
 
 **Machine Learning**  
 *Stanford University, Andrew Ng*  
