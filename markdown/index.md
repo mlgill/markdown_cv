@@ -132,19 +132,19 @@ Course: Biochemistry II
 Role: Led discussion sessions and reviews, designed quizzes and homework questions
 
 
-## __Publications__
+## __Publications__ :ref:`Publications`
 
 ### Peer Reviewed
 
-__Gill, M.L.__, Byrd, R.A., Palmer, A.G. "Detection of Chemical Exchange in Methyl Groups of Macromolecules", _in preparation_.
+__Gill, M.L.__, Sun, S., Byrd, R.A., "Highly quantitative reconstruction of sparsely sampled, low dimensionality NMR spectra", _in preparation_.
 
-__Gill, M.L.__, Sun, S., Byrd, R.A., "Highly Quantitative Reconstruction of Sparsely Sampled, Low Dimensionality NMR Spectra", _in preparation_.
+__Gill, M.L.__, Byrd, R.A., Palmer, A.G. "Detection of chemical exchange in methyl groups of macromolecules", _in preparation_.
 
 `2017`
 Tong, M., Pelton, J., __Gill, M.L.__, Zhang, W., Picart, F., Seeliger, M., “Survey of solution dynamics in Src kinase reveals cross talk between the ligand binding and regulatory sites“, _Nat. Chem. Biol._, _submitted_.
 
 `2016`
-__Gill, M.L.__, Byrd, R.A., Palmer, A.G. “Dynamics of GCN4 Facilitate DNA Interaction: A Model-Free Analysis of an Intrinsically Disordered Region“, _Phys. Chem. Chem. Phys._ 2016, 18, 5839–5849. \[[pdf](http://cv.michellelynngill.com/publications/GillMichelle_PCCP_2015.pdf)\]
+__Gill, M.L.__, Byrd, R.A., Palmer, A.G. “Dynamics of GCN4 facilitate DNA interaction: a model-free analysis of an intrinsically disordered region“, _Phys. Chem. Chem. Phys._ 2016, 18, 5839–5849. \[[pdf](http://cv.michellelynngill.com/publications/GillMichelle_PCCP_2015.pdf)\]
 
 `2015`
 *Sun, S., __\*Gill, M.L.__, Li, Y., Huang, M., Byrd, R.A. “Efficient and generalized processing of multidimensional NUS NMR Data: the NESTA algorithm and comparison of regularization terms”, _J. Biomol. NMR_ 2015, 62, 105–117. \[[pdf](http://cv.michellelynngill.com/publications/GillMichelle_JBNMR_2015.pdf)\]  
