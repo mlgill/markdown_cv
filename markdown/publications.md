@@ -4,7 +4,7 @@ title: Publications
 ---
 
 # Publications & Scientific Presentations
-Michelle Lynn Gill, Ph.D.
+Michelle Lynn Gill, Ph.D.  
 
 ## __Publications__  
 
