@@ -3,7 +3,7 @@ layout: publications
 title: Publications
 ---
 
-# Publications & Scientific Presentations
+# Scientific Publications
 
 Michelle Lynn Gill, Ph.D.    
 
