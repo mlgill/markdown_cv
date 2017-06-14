@@ -23,7 +23,7 @@ Biophysicist and Data Scientist
 
 -------------------
 
-`**Note**`  
+`Note`  
 Scientific posters and presentations are listed on my [CV](http://cv.michellelynngill.com) and [here](http://cv.michellelynngill.com/publications.html) 
 
 `Upcoming`
