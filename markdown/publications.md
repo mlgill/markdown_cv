@@ -3,8 +3,10 @@ layout: publications
 title: Publications
 ---
 
-# Peer Reviewed Publications
-Michelle Lynn Gill, Ph.D.  
+# Publications & Scientific Presentations
+Michelle Lynn Gill, Ph.D.
+
+## __Publications__  
 
 __Gill, M.L.__, Sun, S., Byrd, R.A., "Highly quantitative reconstruction of sparsely sampled, low dimensionality NMR spectra", _in preparation_.
 
