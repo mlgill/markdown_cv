@@ -21,9 +21,10 @@ Biophysicist and Data Scientist
 <i class="fa fa-twitter"></i> <a href="http://twitter.com/modernscientist">modernscientist</a>
 </div> 
 
-Note: Scientific posters and presentations are listed on my [CV](http://cv.michellelynngill.com) 
-
 -------------------
+
+`**Note**`  
+Scientific posters and presentations are listed on my [CV](http://cv.michellelynngill.com) and [here](http://cv.michellelynngill.com/publications.html) 
 
 `Upcoming`
 “Efficient Image Search and Identification: The Making of Wine-O.AI”, Talk, _SciPy Conference_, Austin \[[schedule](https://scipy2017.scipy.org/ehome/220975/493422/)\]
