@@ -23,7 +23,7 @@ Biophysicist and Data Scientist
 
 ------------------- 
 
-## __Peer Reviewed Publications__  
+## __Publications__  
 
 __Gill, M.L.__, Sun, S., Byrd, R.A., "Highly quantitative reconstruction of sparsely sampled, low dimensionality NMR spectra", _in preparation_.
 
