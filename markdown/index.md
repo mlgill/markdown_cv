@@ -132,7 +132,9 @@ Course: Biochemistry II
 Role: Led discussion sessions and reviews, designed quizzes and homework questions
 
 
-## __Publications__ :ref:`Publications`
+:ref:`Publications`
+
+## __Publications__ 
 
 ### Peer Reviewed
 
