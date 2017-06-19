@@ -20,7 +20,7 @@ Biophysicist and Data Scientist
 |
 <i class="fa fa-twitter"></i> <a href="http://twitter.com/modernscientist">modernscientist</a>
 |
-<i class="fa fa-globe"></i> <a href="http://michellelynngill.com">about</a>
+<i class="fa fa-globe"></i> <a href="http://michellelynngill.com">michellelynngill</a>
 </div>
 
 ------------------- 
