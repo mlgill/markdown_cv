@@ -86,9 +86,9 @@ Personal blog, [themodernscientist](http://themodernscientist.com), discusses da
 
 ### NESTA-NMR
 
-Developed and currently maintain a program, called [NESTA-NMR](http://nestanmr.com), that enables the acquisition of experimental data to be completed up to 100X faster. This project uses a compressed sensing algorithm, called NESTA. The program is written in C, highly parallelized, and best-in-class for speed and optimization accuracy. Associated scientific (GSL and FFTW) and parallelization (pthreads) libraries were also used.
+Developed and currently maintain a program, called [NESTA-NMR](http://nestanmr.com), that enables the acquisition of experimental data to be completed up to 100X faster. This project uses a compressed sensing algorithm, called NESTA. The program is written in C, highly parallelized, and best-in-class for speed and optimization accuracy. Associated scientific (GSL and FFTW) and parallelization (pthreads) libraries were used.
 
-I built the [website](http://nestanmr.com) using Flask and created the [documentation](http://docs.nestanmr.com) using Sphinx.
+I also built the [website](http://nestanmr.com) using Flask and created the [documentation](http://docs.nestanmr.com) using Sphinx.
 
 
 ### pdLSR
@@ -104,11 +104,12 @@ I built the [website](http://nestanmr.com) using Flask and created the [document
 ## __Technical Skills__
 
 * Python
-* R
 * C
+* R
 * MATLAB
 * Spark
 * Statistics
+* Signal processing
 * Machine learning
 * Deep learning
 * Computer vision
@@ -131,8 +132,6 @@ __Yale University__, Graduate Teaching Fellow
 Course: Biochemistry II  
 Role: Led discussion sessions and reviews, designed quizzes and homework questions
 
-
-:ref:`Publications`
 
 ## __Publications__ 
 
