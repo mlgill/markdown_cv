@@ -52,7 +52,7 @@ Designed and created Hadoop and Spark machine learning and NLP curriculum using 
 `2014-2016`
 __National Cancer Institute, National Institutes of Health__, Scientist  
 <!-- ADD REFERENCE TO PROTEASOME WORK -->
-Developed robust and extremely fast methods for reconstruction of non-uniformly sampled NMR data.  
+Developed parallelized, compressed sensing methods for reconstruction of non-uniformly sampled NMR data.  
 
 `2008-2014`
 __Columbia University, Department of Biochemistry and Molecular Biophysics__, Postdoctoral Research Fellow  
