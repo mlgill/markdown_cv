@@ -14,14 +14,14 @@ Biophysicist and Data Scientist
 </div>
 
 <div id="webaddress">
-<i class="fa fa-globe"></i> <a href="http://michellelynngill.com">michellelynngill</a>
-|
 <i class="fa fa-globe"></i> <a href="http://themodernscientist.com">themodernscientist</a>
 |
 <i class="fa fa-github"></i> <a href="http://github.com/mlgill">mlgill</a>
 |
 <i class="fa fa-twitter"></i> <a href="http://twitter.com/modernscientist">modernscientist</a>
-</div> 
+|
+<i class="fa fa-globe"></i> <a href="http://michellelynngill.com">about</a>
+</div>
 
 -------------------
 
