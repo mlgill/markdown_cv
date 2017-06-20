@@ -47,7 +47,7 @@ B.S., Biochemistry, _Summa Cum Laude_
 
 `2016-Present`
 __Metis__, Senior Data Scientist  
-Designed and created Hadoop and Spark machine learning and NLP curriculum using self-made Docker containers. Conducted corporate trainings focused on Python, Spark, Hadoop, and Hive. Developed 12-week machine learning course for F100 company. Co-instructed 12-week data science bootcamps. Developed and conducted take home coding exercise to assist with interview preparation.
+Designed and created Spark machine learning and NLP curriculum using self-made Docker containers. Conducted corporate trainings focused on Python and Spark. Developed 12-week machine learning course for F100 company. Co-instructed 12-week data science bootcamps. Developed and conducted take home coding exercise to assist with interview preparation.
 
 `2014-2016`
 __National Cancer Institute, National Institutes of Health__, Scientist  
