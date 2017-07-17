@@ -28,10 +28,10 @@ Biophysicist and Data Scientist
 `Note`
 Scientific posters and presentations are listed on my [CV](http://cv.michellelynngill.com) and [here](http://cv.michellelynngill.com/publications.html) 
 
-`Upcoming`
-“Efficient Image Search and Identification: The Making of Wine-O.AI”, Talk, _SciPy Conference_, Austin \[[schedule](https://scipy2017.scipy.org/ehome/220975/493422/)\]
-
 
 `2017`
+“Efficient Image Search and Identification: The Making of Wine-O.AI”, Talk, _SciPy Conference_, Austin \[[Slides](https://github.com/mlgill/scipy_2017_wine-o.ai), [Speaker Deck](https://speakerdeck.com/mlgill/efficient-image-search-and-identification-the-making-of-wine-o-dot-ai), [Video](https://www.youtube.com/watch?v=3CUWMZ1304I&index=24&list=PLYx7XA2nY5GfdAFycPLBdUDOUtdQIVoMf)\]
+
+
 “Learning from Text: Natural Language Processing with Python”, Tutorial, _ODSC East_, Boston 
-\[[materials](https://github.com/mlgill/ODSC_East_2017_PythonNLP)\]
+\[[Materials](https://github.com/mlgill/ODSC_East_2017_PythonNLP)\]
