@@ -24,7 +24,7 @@ Biophysicist and Data Scientist
 
 ## __Current__
 
-Biophysicist and data scientist. Currently a senior data scientist at Metis. Always eager to apply my superb computational, statistical, and communication skills to solve challenging problems in team-focused settings.
+Biophysicist and data scientist. Currently a Deep Learning Consultant at NVIDIA. Eager to apply my superb computational, statistical, and communication skills to solve challenging problems in team-focused settings.
 
 
 ## __Education__
@@ -45,7 +45,11 @@ B.S., Biochemistry, _Summa Cum Laude_
 
 ## __Experience__
 
-`2016-Present`
+`2017-Present`
+__NVIDIA__, Deep Learning Consultant  
+Assist clients in developing deep learning pipelines and in-house capabilities. Specialization in healthcare vertical.
+
+`2016-2017`
 __Metis__, Senior Data Scientist  
 Designed and created Spark machine learning and NLP curriculum using self-made Docker containers. Conducted corporate trainings focused on Python and Spark. Developed 12-week machine learning course for F100 company. Co-instructed 12-week data science bootcamps. Developed and conducted take home coding exercise to assist with interview preparation.
 
@@ -109,7 +113,8 @@ I also built the [website](http://nestanmr.com) using Flask and created the [doc
 * C
 * R
 * MATLAB
-* Spark
+* PySpark
+* Hadoop
 * Statistics
 * Signal processing
 * Machine learning
