@@ -29,6 +29,17 @@ Links are provided to completion certificates.
 
 ## __Coursera__
 
+**DeepLearning.ai**  
+*Andrew Ng*  
+This is a five course specialization utilizing Python and TensorFlow that teaches theoretical and practical aspects of deep learning.
+
+* Neural Networks and Deep Learning: [Certificate](https://link.mlgill.co/2wlXXw2)
+* Improving Deep Neural Networks: *In Progress*
+* Structuring Machine Learning Projects: *In Progress*
+
+<!-- * Convolutional Neural Networks: *Future*
+* Sequence Models: *Future* -->
+
 **Machine Learning**  
 *Stanford University, Andrew Ng*  
 This eleven-week course course is focused on the theoretical foundations of machine learning and includes weekly lectures, quizzes, and graded homework. Matlab/Octave is used. [Certificate](http://link.mlgill.co/1QWaeg9)
@@ -56,17 +67,13 @@ This is a nine course specialization with additional capstone project. Each four
 * Regression Models: [Certificate](http://link.mlgill.co/1QWaADE)
 * Practical Machine Learning: [Certificate](http://link.mlgill.co/1QWaBYj)
 * Developing Data Products: [Certificate](http://link.mlgill.co/1QWaDPC)
-<!-- * Capstone Project: *in progress*, project involves parsing corpuses from Twitter, blogs, and news articles to develop a predictive text engine -->
 
 
 **Machine Learning Foundations Specialization**  
 *University of Washington, Emily Fox and Carlos Guestrin*  
-This is a new machine learning specialization utilizing Python as the foundation language. The specialization contains five six-week courses and a capstone project. Each course involves weekly lectures, quizzes, and homework. As I am part of the initial cohort, my course completion rate is limited by availability of new courses.
+A machine learning specialization utilizing Python as the foundation language. The specialization contains five six-week courses and a capstone project. Each course involves weekly lectures, quizzes, and homework. 
 
 * Foundations: A Case Study Approach: [Certificate](http://link.mlgill.co/1QWaEDi)
 * Regression: [Certificate](http://link.mlgill.co/1QWaGLv)
 * Classification: [Certificate](http://link.mlgill.co/1U0JxZH)
-<!-- * Clustering & Retrieval: *future* -->
-<!-- * Recommender Systems & Dimensionality Reduction: *future* -->
-<!-- * Capstone Project: *future* -->
 
