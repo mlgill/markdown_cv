@@ -36,9 +36,8 @@ This is a five course specialization utilizing Python and TensorFlow that teache
 * Neural Networks and Deep Learning: [Certificate](https://link.mlgill.co/2wlXXw2)
 * Improving Deep Neural Networks: *In Progress*
 * Structuring Machine Learning Projects: *In Progress*
-
-<!-- * Convolutional Neural Networks: *Future*
-* Sequence Models: *Future* -->
+* Convolutional Neural Networks: *Not Yet Released*
+* Sequence Models: *Not Yet Released*
 
 **Machine Learning**  
 *Stanford University, Andrew Ng*  
