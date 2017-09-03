@@ -70,7 +70,7 @@ This is a nine course specialization with additional capstone project. Each four
 
 **Machine Learning Foundations Specialization**  
 *University of Washington, Emily Fox and Carlos Guestrin*  
-A machine learning specialization utilizing Python as the foundation language. The specialization contains five six-week courses and a capstone project. Each course involves weekly lectures, quizzes, and homework. 
+A machine learning specialization utilizing Python as the foundation language. Each course involves weekly lectures, quizzes, and homework. 
 
 * Foundations: A Case Study Approach: [Certificate](http://link.mlgill.co/1QWaEDi)
 * Regression: [Certificate](http://link.mlgill.co/1QWaGLv)
