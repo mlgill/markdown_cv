@@ -33,9 +33,9 @@ Links are provided to completion certificates.
 *Andrew Ng*  
 This is a five course specialization utilizing Python and TensorFlow that teaches theoretical and practical aspects of deep learning.
 
-* Neural Networks and Deep Learning: [Certificate](https://link.mlgill.co/2wlXXw2)
+* Neural Networks and Deep Learning: [Certificate](https://link.mlgill.co/2gQZgf8)
 * Improving Deep Neural Networks: [Certificate](https://link.mlgill.co/2vW4vzH)
-* Structuring Machine Learning Projects: *In Progress*
+* Structuring Machine Learning Projects: [Certificate](link.mlgill.co/2eMlUVl)
 * Convolutional Neural Networks: *Not Yet Released*
 * Sequence Models: *Not Yet Released*
 
