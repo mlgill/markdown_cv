@@ -24,7 +24,7 @@ Biophysicist and Data Scientist
 
 ## __Current__
 
-Biophysicist and data scientist. Currently a Deep Learning Consultant at NVIDIA. Eager to apply my superb computational, statistical, and communication skills to solve challenging problems in team-focused settings.
+Biophysicist and data scientist. Currently a Senior Deep Learning Consultant at NVIDIA. 
 
 
 ## __Education__

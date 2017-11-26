@@ -35,8 +35,8 @@ This is a five course specialization utilizing Python and TensorFlow that teache
 
 * Neural Networks and Deep Learning: [Certificate](https://link.mlgill.co/2gQZgf8)
 * Improving Deep Neural Networks: [Certificate](https://link.mlgill.co/2vW4vzH)
-* Structuring Machine Learning Projects: [Certificate](link.mlgill.co/2eMlUVl)
-* Convolutional Neural Networks: *Not Yet Released*
+* Structuring Machine Learning Projects: [Certificate](https://link.mlgill.co/2eMlUVl)
+* Convolutional Neural Networks: [Certificate](https://link.mlgill.co/2k5afad)
 * Sequence Models: *Not Yet Released*
 
 **Machine Learning**  
