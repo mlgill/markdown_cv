@@ -32,7 +32,7 @@ __Gill, M.L.__, Sun, S., Byrd, R.A., "Highly quantitative reconstruction of spar
 __Gill, M.L.__, Byrd, R.A., Palmer, A.G. "Detection of chemical exchange in methyl groups of macromolecules", _in preparation_.
 
 `2017`
-Tong, M., Pelton, J., __Gill, M.L.__, Zhang, W., Picart, F., Seeliger, M., “Survey of solution dynamics in Src kinase reveals cross talk between the ligand binding and regulatory sites“, _Nat. Chem. Biol._, _submitted_.
+Tong, M., Pelton, J., __Gill, M.L.__, Zhang, W., Picart, F., Seeliger, M., “Survey of solution dynamics in Src kinase reveals cross talk between the ligand binding and regulatory sites“, _Nat. Chem. Biol._, 2017, _in press_.
 
 `2016`
 __Gill, M.L.__, Byrd, R.A., Palmer, A.G. “Dynamics of GCN4 facilitate DNA interaction: a model-free analysis of an intrinsically disordered region“, _Phys. Chem. Chem. Phys._ 2016, 18, 5839–5849. \[[pdf](http://cv.michellelynngill.com/publications/GillMichelle_PCCP_2015.pdf)\]
