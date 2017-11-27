@@ -46,7 +46,7 @@ B.S., Biochemistry, _Summa Cum Laude_
 ## __Experience__
 
 `2017-Present`
-__NVIDIA__, Deep Learning Consultant  
+__NVIDIA__, Senior Deep Learning Consultant  
 Assist clients in developing deep learning pipelines and in-house capabilities. Specialization in healthcare vertical.
 
 `2016-2017`
