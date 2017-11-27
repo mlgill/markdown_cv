@@ -47,7 +47,7 @@ B.S., Biochemistry, _Summa Cum Laude_
 
 `2017-Present`
 __NVIDIA__, Senior Deep Learning Consultant  
-Assist clients in developing deep learning pipelines and in-house capabilities. Specialization in healthcare vertical.
+The NVIDIA Professional Services Group assists clients in utilizing deep learning for strategic advantage. As a Deep Learning Consultant at NVIDIA, my role is to: identify achievable and industry-specific applications of deep learning for clients, design and implement proof-of-concept experiments and pipelines to validate approach prior to investment, and identify technology stack and engineering architecture for solution deployment.  
 
 `2016-2017`
 __Metis__, Senior Data Scientist  
